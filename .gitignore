@@ -1,0 +1,30 @@
+# Build folders
+Debug/
+Release/
+x64/
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# SFML DLLs or libs
+*.dll
+*.lib
+*.exp
+*.pdb
+
+# Executables
+*.exe
+
+# Logs or temp files
+*.log
+*.tmp
+
+# Other
+Thumbs.db
+desktop.ini
